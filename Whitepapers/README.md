@@ -1,2 +1,2 @@
 # Whitepapers
-White papers published by Dynaminet Ltd
+Whitepapers published by Dynaminet Ltd
